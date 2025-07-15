@@ -1,6 +1,8 @@
 # ConstructNLPfromScratch
 
 ## Introduction
+| Powered By AI |
+
 ConstructNLPfromScratch is a project aimed at building a Natural Language Processing (NLP) system from the ground up. This repository provides a step-by-step implementation to help learners and developers understand the core concepts of NLP, including tokenization, part-of-speech tagging, and basic language modeling, without relying on high-level libraries.
 This project is altered based on Minimind Project:  https://github.com/jingyaogong/minimind 
 
